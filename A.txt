@@ -1,0 +1,9 @@
+Hello i am ajit
+
+class A{
+public static void main(String[] args){
+
+}
+
+
+}
